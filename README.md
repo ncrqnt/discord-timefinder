@@ -14,7 +14,7 @@ Discord Bot for voting on a suitable time (e.g. for movie nights, game sessions,
   - [ ] (interval hourly)
 - [ ] Generate time spans
   - [ ] Cut on 24 reactions / time suggestions
-  - [ ] React with A - X
+  - [ ] React with A - X (`regional_indicator_A` - `regional_indicator_X`)
 
 ### Phase 2 - Comfort
 - [ ] Paramters
